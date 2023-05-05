@@ -1,0 +1,9 @@
+{
+	"name": "shadabAzureDataFactory01",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "43d63ea4-c558-4518-974f-cc5b71fe11b0",
+		"tenantId": "ae51117d-2838-4220-9037-5fac50e65f85"
+	}
+}
